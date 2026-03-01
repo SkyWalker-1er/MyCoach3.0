@@ -1,0 +1,26 @@
+{
+  "name": "MyCoach3.0 — Forge Ton Corps",
+  "short_name": "MyCoach3.0",
+  "description": "MyCoach3.0 — Programme fitness personnalisé par IA. Construction musculaire, perte de poids, nutrition sur mesure.",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#080b0f",
+  "theme_color": "#00e5c8",
+  "orientation": "portrait-primary",
+  "lang": "fr",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["health", "fitness", "sports"]
+}
